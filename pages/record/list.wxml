@@ -1,0 +1,35 @@
+<!--pages/record/record.wxml-->
+<view class="page">
+	<view class="page__hd">
+		<mp-cells>
+			<view class="l-title">
+				2020年8月
+			</view>
+				<mp-cell link url="./../record/record" ext-class="l-section">
+				<view class="b01">
+					深圳华谊兄弟影院-宝能店
+				</view>
+				<view class="b02">
+					深圳华谊兄弟影院-宝能店
+				</view>
+				<view class="b03">
+					2020-08-17 19:36:52
+				</view>
+				<mp-badge content="8" />
+			</mp-cell>
+			<mp-cell link  url="./../record/record"  ext-class="l-section">
+				<view class="b01">
+					孔雀酒吧
+				</view>
+				<view class="b02">
+					深圳华谊兄弟影院-宝能店
+				</view>
+				<view class="b03">
+					2020-08-17 19:36:52
+				</view>
+				<mp-badge content="8" />
+			</mp-cell>
+		</mp-cells>
+	</view>
+	<mp-tabbar style="position:fixed;bottom:0;width:100%;left:0;right:0;" list="{{list}}"></mp-tabbar>
+</view>

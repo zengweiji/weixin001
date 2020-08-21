@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/me/me",
+    "pages/commit/commit",
+    "pages/record/list",
+    "pages/record/record",
+    "pages/me/change",
+    "pages/me/bind"
+    ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "功能列表",
+        "pagePath": "pages/index/index",
+        "iconPath": "/pages/staic/menu.png",
+        "selectedIconPath": "/pages/staic/menu_active.png"
+      },
+      {
+        "text": "我的",
+        "iconPath": "/pages/staic/me.png",
+        "pagePath": "pages/me/me",
+        "selectedIconPath": "/pages/staic/me_active.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

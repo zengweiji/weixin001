@@ -1,0 +1,10 @@
+/* pages/record/record.wxss */
+.page{
+ background-color: #EEEEEE;
+}
+.page__bd{ padding: 10rpx 5rpx;}
+.my-cells{ font-size: 13px; display: flex;  padding: 10px;border-width: 0 0 1rpx 0;
+  border-color: #f6f6f6;
+  border-style: solid;}
+.li_left{ width: 100px;}
+.li_right{flex: 1;text-align: right;}

@@ -1,0 +1,10 @@
+
+{
+  "navigationBarTitleText": "功能列表",
+  "usingComponents": {
+    "mp-tabbar": "/weui-miniprogram/miniprogram_dist/tabbar/tabbar",
+    "mp-cells": "/weui-miniprogram/miniprogram_dist/cells/cells",
+    "mp-icon": "/weui-miniprogram/miniprogram_dist/icon/icon",
+    "mp-cell": "/weui-miniprogram/miniprogram_dist/cell/cell"
+  }
+}

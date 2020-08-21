@@ -1,0 +1,49 @@
+<!--pages/record/record.wxml-->
+<view class="page">
+	<view class="page__bd">
+		<mp-cells>
+			<view class="my-cells">
+				<view class="li_left">场所名称</view>
+				<view class="li_right">深圳市华谊兄弟影院-宝能店</view>
+			</view>
+			<view class="my-cells">
+				<view class="li_left">场所名称</view>
+				<view class="li_right">广东省深圳市南山区中心路2233号宝能购物中心(太古城南山店)</view>
+			</view>
+         </mp-cells>
+         <mp-cells>
+<view class="my-cells">
+				<view class="li_left">姓名</view>
+				<view class="li_right">金*</view>
+			</view>
+            <view class="my-cells">
+				<view class="li_left">手机号</view>
+				<view class="li_right">135****0327</view>
+			</view>
+			<view class="my-cells">
+				<view class="li_left">证件号</view>
+				<view class="li_right">440***********6413</view>
+			</view>
+			<view class="my-cells">
+				<view class="li_left">具体位置</view>
+				<view class="li_right"></view>
+			</view>
+			<view class="my-cells">
+				<view class="li_left">到访事由</view>
+				<view class="li_right"></view>
+			</view>
+			<view class="my-cells">
+				<view class="li_left">到访时间</view>
+				<view class="li_right">2020-08-17 19:36:52</view>
+			</view>
+		
+		</mp-cells>
+
+
+
+
+
+
+	</view>
+
+</view>

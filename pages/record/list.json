@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "到访登记记录",
+  "usingComponents": {
+    "mp-tabbar": "/weui-miniprogram/miniprogram_dist/tabbar/tabbar",
+    "mp-cells": "/weui-miniprogram/miniprogram_dist/cells/cells",
+    "mp-icon": "/weui-miniprogram/miniprogram_dist/icon/icon",
+    "mp-cell": "/weui-miniprogram/miniprogram_dist/cell/cell"
+  }
+}

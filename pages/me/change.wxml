@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="page">
+	<view class="change-bg">
+	<image  src="/pages/staic/sf.png" class="changeimg" mode="widthFix"></image> 
+	</view>
+</view>

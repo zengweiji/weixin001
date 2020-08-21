@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="page">
+	<view class='bg'>
+		<mp-cells>
+			<mp-cell  title="账号" ext-class="">
+				<input class="weui-input" placeholder="请输入账号名称" />
+			</mp-cell>
+				<mp-cell title="密码" ext-class="">
+				<input  class="weui-input" placeholder="请输入账号密码" />
+			</mp-cell>
+		</mp-cells>
+	</view>
+</view>

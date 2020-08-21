@@ -1,0 +1,4 @@
+/* pages/me/bind.wxss */
+.weui-input{
+  margin-left: 2rem;
+}

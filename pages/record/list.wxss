@@ -1,0 +1,6 @@
+/* pages/record/list.wxss */
+/* .l-section{} */
+.l-title{ font-size: 20rpx; background-color:#EFEFEF; padding: 5px 16px;}
+.b01{ font-size: 13px; padding-bottom: 5px;}
+.b02{ font-size: 22rpx;  padding-bottom: 5px;}
+.b03{ font-size: 20rpx;  padding-bottom: 5px; color: gray;} 
